@@ -90,6 +90,6 @@ setup(
         'Topic :: Other/Nonlisted Topic',
     ],
     keywords='gpx gps',
-    packages=find_packages(),
+    # packages=find_packages(),
     install_requires=get_requirements(),
 )
